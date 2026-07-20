@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Manjeet Roy 👋</h1>
-<h3 align="center">Full-Stack & Mobile Engineer | ECE Undergrad @ MS Ramaiah Institute of Technology</h3>
+<h3 align="center">Full-Stack & Mobile Engineer | ETE Undergrad @ MS Ramaiah Institute of Technology</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/manjeet70"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
