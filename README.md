@@ -15,7 +15,6 @@
 - 🏆 **Second Best Paper Award, ICDDS 2025** — hybrid deep learning framework for plant disease detection
 - 💼 Flutter Developer Intern @ **Infits**, shipping features on a production CRM app
 - 🔭 Currently building an **AI-driven cyber resilience platform** for the ET AI Hackathon 2026 — owning the backend SOAR orchestration & audit-log layer
-- 🌱 Also exploring Sanskrit and Hindu scriptures in my downtime
 
 ---
 
